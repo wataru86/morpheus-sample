@@ -1,0 +1,7 @@
+resolver: lts-16.2
+packages:
+  - .
+extra-deps:
+  - morpheus-graphql-0.17.0
+  - morpheus-graphql-app-0.17.0
+  - morpheus-graphql-core-0.17.0
